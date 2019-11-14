@@ -1,8 +1,8 @@
 {
   "name": "photo-gallery",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "version": "0.0.2",
+  "author": "Mustafa ER",
+  "homepage": "https://github.com/mustafaer/ionic-angular-photo-gallery",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
